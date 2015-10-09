@@ -1,0 +1,5 @@
+SSQInfo=com.grey_zoo.lottery.net.element.GetSSQInfoElement
+GetLotteryInfo=com.grey_zoo.lottery.net.protocal.recelement.RecLotteryInfoElement
+login=com.grey_zoo.lottery.net.protocal.sendelement.UserLoginElement
+userInfo=com.grey_zoo.lottery.net.protocal.sendelement.GetUserInfoElement
+buyLottery=com.grey_zoo.lottery.net.protocal.sendelement.BuyLotteryElement

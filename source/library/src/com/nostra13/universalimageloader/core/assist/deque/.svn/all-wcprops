@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/qq8958188.newlottery/!svn/ver/5/library/src/com/nostra13/universalimageloader/core/assist/deque
+END
+Deque.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qq8958188.newlottery/!svn/ver/5/library/src/com/nostra13/universalimageloader/core/assist/deque/Deque.java
+END
+LinkedBlockingDeque.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/qq8958188.newlottery/!svn/ver/5/library/src/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque.java
+END
+BlockingDeque.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/qq8958188.newlottery/!svn/ver/5/library/src/com/nostra13/universalimageloader/core/assist/deque/BlockingDeque.java
+END
+LIFOLinkedBlockingDeque.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/qq8958188.newlottery/!svn/ver/5/library/src/com/nostra13/universalimageloader/core/assist/deque/LIFOLinkedBlockingDeque.java
+END

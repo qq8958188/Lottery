@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/qq8958188.newlottery/!svn/ver/3/Lottery/src/com/grey_zoo/lottery/net/protocal/sendelement
+END
+UserLoginElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qq8958188.newlottery/!svn/ver/3/Lottery/src/com/grey_zoo/lottery/net/protocal/sendelement/UserLoginElement.java
+END
+GetUserInfoElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qq8958188.newlottery/!svn/ver/3/Lottery/src/com/grey_zoo/lottery/net/protocal/sendelement/GetUserInfoElement.java
+END
+GetLotteryInfoElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qq8958188.newlottery/!svn/ver/3/Lottery/src/com/grey_zoo/lottery/net/protocal/sendelement/GetLotteryInfoElement.java
+END
+BuyLotteryElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/qq8958188.newlottery/!svn/ver/3/Lottery/src/com/grey_zoo/lottery/net/protocal/sendelement/BuyLotteryElement.java
+END
